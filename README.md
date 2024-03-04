@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aasish Shrestha</h1>
 <h3 align="center">Passionate and interactive frontend developer from Nepal. I've been active in the frontend field since 2023 June when i first knew about UI/UX.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdyZnk0djlxZXptZzAwZjU4MjYxNmwyZ3hvOGljMzBheGRkeXNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aasishstha&label=Profile%20views&color=0e75b6&style=flat](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)" alt="aasishstha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aasishstha&label=Profile%20views&color=0e75b6&style=flat" alt="aasishstha" /> </p>
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/aasishstha/Portfolio-Website)
 
