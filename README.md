@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aasishstha](https://github.com/aasishstha)
 
-- 📝 I regularly write articles on [https://medium.com/@aasishstha09op1](https://medium.com/@aasishstha09op1)
+- 📝 I also write articles on [https://medium.com/@aasishstha09op1](https://medium.com/@aasishstha09op1)
 
 - 💬 Ask me about **UI/UX Frontend designing**
 
