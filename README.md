@@ -12,7 +12,7 @@
 
 - 📝 I also write articles on [https://medium.com/@aasishstha09op1](https://medium.com/@aasishstha09op1)
 
-- 💬 Ask me about **UI/UX Frontend designing**
+- 💬 Ask me about **Frontend, Web Development & UI Designing**
 
 - 📫 How to reach me **work.aasish@gmail.com**
 
