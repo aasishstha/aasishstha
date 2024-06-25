@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aasish Shrestha</h1>
-<h3 align="center">Passionate and interactive frontend developer from Nepal. I've been active in the frontend/Web Development field since 2023 June when i first knew about UI/UX.</h3>
+<h3 align="center">Passionate and interactive UI/UX Designer from Nepal. I've been active in the UI/UX field since 2023 June when i first knew about it.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdyZnk0djlxZXptZzAwZjU4MjYxNmwyZ3hvOGljMzBheGRkeXNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasishstha&label=Profile%20views&color=0e75b6&style=flat" alt="aasishstha" /> </p>
 
 - 🔭 I’m currently working on [Portfolio Website](https://aasish-shrestha.com.np/)
 
-- 🌱 I’m currently learning **React and Nest .js**
+- 🌱 I’m currently learning **UX (User Experience)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aasishstha](https://github.com/aasishstha)
 
